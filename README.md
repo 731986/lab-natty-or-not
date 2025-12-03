@@ -13,8 +13,10 @@ Para fazer esta magia acontecer, usei o Gemini (Google) como o meu assistente cr
 ## 🧐 Processo de Criação
 O processo foi uma conversa com a IA:
 
-1. A Base: Primeiro, enviei a foto de referência e pedi um estilo bem específico: "sketch de caneta esferográfica azul em papel de caderno". Queria aquela textura de rabisco e imperfeição         humana.
-2. O Ajuste Fino: A primeira versão veio fiel à foto atual. Aí entrei com o "toque humano": pedi para a IA rejuvenescer os rostos. O desafio foi ajustar o prompt para suavizar as linhas de        expressão e mudar levemente a tensão da pele, sem perder a identidade deles.
+1. A Base: Primeiro, enviei a foto de referência e pedi um estilo bem específico: "sketch de caneta esferográfica azul em papel de caderno". Queria aquela textura de rabisco e imperfeição humana.
+   
+2. O Ajuste Fino: A primeira versão veio fiel à foto atual. Aí entrei com o "toque humano": pedi para a IA rejuvenescer os rostos. O desafio foi ajustar o prompt para         suavizar as linhas de expressão e mudar levemente a tensão da pele, sem perder a identidade deles.
+   
 3. Cenário: Para vender a ilusão, mantive o pedido de incluir uma mão a desenhar e uma borracha na cena. Isso dá profundidade e contexto.    
 
 ## 🚀 Resultados
